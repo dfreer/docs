@@ -284,6 +284,8 @@ If you wish to use your own resolution logic, you may use the `Route::bind` meth
         });
     }
 
+> {note} The value of the URI segment should be in camelCase format.
+
 <a name="form-method-spoofing"></a>
 ## Form Method Spoofing
 
